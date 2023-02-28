@@ -1,14 +1,12 @@
 {
     "extensions": [
-        "ms-dotnettools.csharp",
         "github.copilot",
         "rocketseat.theme-omni",
         "pkief.material-icon-theme",
         "aaron-bond.better-comments",
-        "kreativ-software.csharpextensions",
-        "ms-python.python"
+        "vscjava.vscode-java-pack",
     ],
-
+        
     "settings": {
         "editor.fontFamily": "'Jetbrains Mono'",
         "editor.fontLigatures": true,
