@@ -108,3 +108,7 @@ Use o padrão Observer nas seguintes situações:
 * Quando a abstração tem dois aspectos, um dependente do outro. Encapsulando esses aspectos em objetos separados permite diversificá-los e reutilizá-los separadamente.
 * Quando a mudança de um objeto requer mudança em outros, e você não sabe quantos objetos precisam ser mudados.
 * Quando um objeto deve ser capaz de notificar outros objetos sem precisar saber quem esses objetos são. Em outras palavras, você não quer esses objetos muito acoplados.
+
+## Referência
+
+* [Observer iluwatar](https://github.com/iluwatar/java-design-patterns/tree/master/observer)
