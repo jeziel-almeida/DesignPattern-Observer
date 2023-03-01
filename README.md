@@ -99,7 +99,7 @@ The hobbits are facing sunny weather now
 
 ## Diagrama de classes
 
-![alt text](./img/observer.png "Observer")
+![alt text](./Observer.png "Observer")
 
 ## Aplicação
 
